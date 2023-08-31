@@ -1,0 +1,7 @@
+C:\Users\edna\source\AzureCourse\webapp\evdemo0136\bin\Debug\net6.0\publish\evdemo0136.exe
+C:\Users\edna\source\AzureCourse\webapp\evdemo0136\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\Users\edna\source\AzureCourse\webapp\evdemo0136\bin\Debug\net6.0\publish\appsettings.json
+C:\Users\edna\source\AzureCourse\webapp\evdemo0136\bin\Debug\net6.0\publish\evdemo0136.dll
+C:\Users\edna\source\AzureCourse\webapp\evdemo0136\bin\Debug\net6.0\publish\evdemo0136.deps.json
+C:\Users\edna\source\AzureCourse\webapp\evdemo0136\bin\Debug\net6.0\publish\evdemo0136.runtimeconfig.json
+C:\Users\edna\source\AzureCourse\webapp\evdemo0136\bin\Debug\net6.0\publish\evdemo0136.pdb

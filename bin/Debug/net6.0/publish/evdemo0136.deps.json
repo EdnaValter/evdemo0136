@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "evdemo0136/1.0.0": {
+        "runtime": {
+          "evdemo0136.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "evdemo0136/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

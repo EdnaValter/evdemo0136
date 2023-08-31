@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "I5Z5Vw9oCfjHagPI/avQ9ROfAQCZH2veLJLo8nn34Pqsco2C7S6MFlZV6d9Yqp1eU+NDP1+GnNHXSxcABd/2vw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\edna\\source\\AzureCourse\\webapp\\evdemo0136\\evdemo0136.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\edna\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\edna\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\edna\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\edna\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.21\\microsoft.netcore.app.host.win-x64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
